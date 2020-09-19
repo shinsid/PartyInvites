@@ -5,7 +5,7 @@ using System.Web;
 
 namespace PartyInvites.Models
 {
-    public class GuestRespnse
+    public class GuestResponse
     {
         public string Name { get; set; }
 
